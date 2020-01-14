@@ -1,0 +1,13 @@
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\bin\Debug\netstandard2.0\App1Truco.deps.json
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\bin\Debug\netstandard2.0\App1Truco.dll
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\obj\Debug\netstandard2.0\App1Truco.csprojAssemblyReference.cache
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\obj\Debug\netstandard2.0\App1Truco.AssemblyInfoInputs.cache
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\obj\Debug\netstandard2.0\App1Truco.AssemblyInfo.cs
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\bin\Debug\netstandard2.0\ref\App1Truco.dll
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\bin\Debug\netstandard2.0\App1Truco.pdb
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\obj\Debug\netstandard2.0\App1Truco.dll
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\obj\Debug\netstandard2.0\ref\App1Truco.dll
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco\obj\Debug\netstandard2.0\App1Truco.pdb

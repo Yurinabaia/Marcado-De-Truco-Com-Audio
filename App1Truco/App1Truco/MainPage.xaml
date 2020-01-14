@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TrucoAPP.MainPage">
+
+    <StackLayout Padding="15" Spacing="15" BackgroundColor="#000205" WidthRequest="1000" HeightRequest="1000">
+        <!-- Place new controls here -->
+        <Button Text="Dois Tentos" Padding="10" WidthRequest="50" HeightRequest="50" BackgroundColor="Blue" TextColor="White" x:Name="BOTDOIS"/>
+        <Button Text="Truco" Padding="10" WidthRequest="50" HeightRequest="50" BackgroundColor="Blue" TextColor="White" x:Name="BOTTRUCO"/>
+        <Button Text="Seis" Padding="10" WidthRequest="50" HeightRequest="50" BackgroundColor="Blue" TextColor="White" x:Name="BOTSEIS"/>
+        <Button Text="Nove" Padding="10" WidthRequest="50" HeightRequest="50" BackgroundColor="Blue" TextColor="White" x:Name="BOTNOVE"/>
+        <Button Text="Doze" Padding="10" WidthRequest="50" HeightRequest="50" BackgroundColor="Blue" TextColor="White" x:Name="BOTDOZE"/>
+        <Button Text="Zerar" Padding="10" WidthRequest="50" HeightRequest="50" BackgroundColor="Blue" TextColor="White" x:Name="BOTZERO"/>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,0,20" Text="Bem vindo ao marcado de truco do Nabaia" TextColor="White"
+               FontSize="15" x:Name="ValendoJogo"/>
+            <Button Grid.Column="0" Grid.Row="2" Text="Equipe A Ganhou" BackgroundColor="Brown"
+                FontAttributes="Bold" TextColor="White" VerticalOptions="FillAndExpand" x:Name="BOTEQUIPEA"/>
+            <Label Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,0,20" Text="Pontos da equipe A = 0" TextColor="White"
+               FontSize="12" x:Name="LABELEQUIPEA"/>
+            <Label Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="1" Margin="0,0,0,20" Text="Pontos da equipe B = 0" TextColor="White"
+               FontSize="12" x:Name="LABELEQUIPEB"/>
+            <Button Grid.Column="1" Grid.Row="2" Text="Equipe B Ganhou" BackgroundColor="RoyalBlue"
+                FontAttributes="Bold" TextColor="White" VerticalOptions="FillAndExpand" x:Name="BOTEQUIPEB"/>
+            <Button BackgroundColor="Blue" Text="Botao" Clicked="BotaoA"/>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

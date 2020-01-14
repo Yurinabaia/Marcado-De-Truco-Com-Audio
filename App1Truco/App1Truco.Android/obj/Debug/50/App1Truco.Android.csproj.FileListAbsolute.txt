@@ -1,0 +1,3 @@
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco.Android\obj\Debug\50\MonoAndroid,Version=v5.0.AssemblyAttributes.cs
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco.Android\obj\Debug\50\build.props
+C:\Users\cida_\source\repos\App1Truco\App1Truco\App1Truco.Android\obj\Debug\50\adb.props
